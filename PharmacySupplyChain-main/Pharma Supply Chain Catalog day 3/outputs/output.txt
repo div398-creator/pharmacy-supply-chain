@@ -1,0 +1,28 @@
+Block mined: 00007bb62bd252e16cf1ac3aab6495b19e867799181732eca7bd3d08ca16f275
+Blockchain after mining:
+{
+    "index": 0,
+    "previous_hash": "0",
+    "timestamp": 1724171867554,
+    "transactions": [],
+    "nonce": 0,
+    "hash": "1c4726e74422c21b8c106d8ffef21d0b23838bace89425ca39c4f5d4785c745b"
+}
+{
+    "index": 1,
+    "previous_hash": "1c4726e74422c21b8c106d8ffef21d0b23838bace89425ca39c4f5d4785c745b",
+    "timestamp": 1724171868004,
+    "transactions": [{
+    "sender_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApXvEw37vOWuEYCHzkYNFnMHWSa1JuQ4UfUo8qE1pjmVT1B2u5R96f03q5rVafCR+hHLTfY+s5NIAvUBmOdugSIJGMeS+fkNPk0KTYznh+Y1ncpEmNs6zGNj2TinTS84H1NjPfsAh05SkC/jgNaods3MvSsm7V2JLjmFV4pWi2BTmG/a9gNDZ7ST3wtb8LBSkG09wxKF9/L8l5U4IHqb34PtGfeY8A3RxGei0XYDlsGCPattaC+rIoFINHlN7rJjxTePmM0DHuHB7rzbD2IRAxks3orZMw9Yk3bt467fjryobgtuB1yS9P1CnJkidEr7Ua7xQDtW26mXPLSRsudqXXwIDAQAB",
+    "recipient_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAntZ9laBynA6STFy/LFEDcxxKtzj9Jx8Y7QF1YrdmTGjrCbSa/8JvxCj1WWLlhbzg+v/hrWdQQT2EFRB6DcyDnQlMArA9zWuInYTO4T75aooWI2zgEp2YJvgSI/GU0BLBqlYc3pW6RuQb5TdfzgOIycpdZHrvTIpdbKDxPGrWi4UU1NDO6XdtSkOK9AC9fqk7Sfce1ItVR02D9o6C0dbFEZY1k6wJq59alr4LKMPQ5XtvYotPSx3qX+rLxf+26DRHOb4NsJM9WYN1XIkLOmOCUCXz0KXtb3fajQle8tK4Fp7Z0p4E9xUojRTSpS707K9O9QkIQxYVi8zSb9umvi6YkwIDAQAB",
+    "content": "Drug shipment from Manufacturer to Distributor",
+    "signature": "o8qtL6L3K8yZ/LLWWF5FmnHA4osOBUViF0RNkmah+qqNPymAktk4bM+rGDOdVNqtHXvoa+yqABmQyVdPPehwDvMmfgn+uIPdBkivD9Eov8DK9Lj+MDfsKnDGKz21u4In6dOjk8nOoQe34WikN9ZLxtlYjNzXZ8QlbkKli/eJNQsAJeCmU9i1bmAC8W4Zt7T1mnKQ3z5omVlva5RzAIZdHSGiJqFmwcnmntK0uJD46Mj1ie0KMZ/JX6esuwtlqYUheGFc4kBMaJsdAiE/RfB7WNfdodqwyKKmF8tcODnnMtmOmk/PhO8O4m/qZ25aSgrPXvIrVSNJI78IfhRe4UmAkw=="
+}, {
+    "sender_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAntZ9laBynA6STFy/LFEDcxxKtzj9Jx8Y7QF1YrdmTGjrCbSa/8JvxCj1WWLlhbzg+v/hrWdQQT2EFRB6DcyDnQlMArA9zWuInYTO4T75aooWI2zgEp2YJvgSI/GU0BLBqlYc3pW6RuQb5TdfzgOIycpdZHrvTIpdbKDxPGrWi4UU1NDO6XdtSkOK9AC9fqk7Sfce1ItVR02D9o6C0dbFEZY1k6wJq59alr4LKMPQ5XtvYotPSx3qX+rLxf+26DRHOb4NsJM9WYN1XIkLOmOCUCXz0KXtb3fajQle8tK4Fp7Z0p4E9xUojRTSpS707K9O9QkIQxYVi8zSb9umvi6YkwIDAQAB",
+    "recipient_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7UVJNRsNB3dtmlbzBDhIcTCOMich8/eiL2g4sxczqiyGKEEmcNMaHPcqMf7O9roZUbFWu45u1K0iasUGwRBgbu4ETIT1f5CvO6h/gK4DY9fFwBtfscZh2YfzTUcNVDXBJEU+RgcDS2TBC0f/DegrWJVVD5EvXUHXqJfVAcuABloANQSmEldEnOdY0/eIjV5nbwv2qRfXC+8GHoA9pkR5WpjZhFvFmoZVOarp6+LfkfJ9AGDKZsz+iRVR+8FJk8UQyyf/ivLOPR217SdFJJAOmJyOxC+hA4PotP7GW2lHRuLadidsHd62+x9XBMikTVRDkcRre9k4TmOZAuCc1Jyy9wIDAQAB",
+    "content": "Drug shipment from Distributor to Pharmacy",
+    "signature": "ErgltYrAZIk5gUdJcGPRUe9JzCmniJNXw69LRrvJI7JzYOhWilms+TTFwlvUHbq7aI8YGjzoOZQ+8RENuRP09B5ivcq2R8GiooaI+MB5iTC6KuECAwpG5ffZDZ5nJcfI3uAmK9km51ZE8FOpQM4Ce76hY+SAt09xq8/1icC/529PciGH3B520AbdSiRfRuLHxijLRdumO30WRo40Ml0/XZKKjPA4bgdTBxSd1EmaTqCw7UXEetKpTygIFY3rKa0VHOKDKnD/hSbXmStW5hL6pR2LdxvEfH9YMrU0gQdgs2fFB8xT5an7nZykeyOiGq6P81y8u4GWySS4yqIKA4L70w=="
+ca7bd3d08ca16f275"
+}
+
+Is blockchain valid? true
